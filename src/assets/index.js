@@ -75,7 +75,12 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+import user from "./user.svg";
+import image from "./image.svg";
+
 export {
+  user,
+  image,
   brainwave,
   check,
   check2,
